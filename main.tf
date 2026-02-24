@@ -1,6 +1,6 @@
 module "storageaccount" {
   source = "./modules/"
-  stgname = "testsamonika00001"
+  stgname = "tfstatest"
   rgname= "myrg"
   location = "westus"
 }
